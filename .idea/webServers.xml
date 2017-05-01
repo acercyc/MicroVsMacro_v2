@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://acercyc@192.168.1.101:10222//home/acercyc/env/env_1_p34/bin/python" name="MicroVsMacro2" url="http://192.168.1.101">
+        <fileTransfer host="192.168.1.101" port="10222" privateKey="C:\Users\acercyc\.ssh\id_rsa" rootFolder="/home/acercyc/Project_Araya/MicroVsMacro2" accessType="SFTP" keyPair="true">
+          <option name="port" value="10222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
